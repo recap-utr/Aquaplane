@@ -1,0 +1,27 @@
+Iteration 72/363 of epoch 1 complete. Loss : 0.32890593508879346 
+Iteration 144/363 of epoch 1 complete. Loss : 0.24645384338994822 
+Iteration 216/363 of epoch 1 complete. Loss : 0.22627677561508286 
+Iteration 288/363 of epoch 1 complete. Loss : 0.19431848813676172 
+Iteration 360/363 of epoch 1 complete. Loss : 0.17520282986677355 
+Epoch 1 complete! Validation Loss : 0.31485961831134296
+Best validation loss improved from inf to 0.31485961831134296
+Iteration 72/363 of epoch 2 complete. Loss : 0.16788412713342243 
+Iteration 144/363 of epoch 2 complete. Loss : 0.14538096962496638 
+Iteration 216/363 of epoch 2 complete. Loss : 0.13503778648252288 
+Iteration 288/363 of epoch 2 complete. Loss : 0.12893325905315578 
+Iteration 360/363 of epoch 2 complete. Loss : 0.12024463195767668 
+Epoch 2 complete! Validation Loss : 0.30740895446227945
+Best validation loss improved from 0.31485961831134296 to 0.30740895446227945
+Iteration 72/363 of epoch 3 complete. Loss : 0.11403461951865917 
+Iteration 144/363 of epoch 3 complete. Loss : 0.10082936178271969 
+Iteration 216/363 of epoch 3 complete. Loss : 0.09343448586554991 
+Iteration 288/363 of epoch 3 complete. Loss : 0.08492454167248474 
+Iteration 360/363 of epoch 3 complete. Loss : 0.09050220275659943 
+Epoch 3 complete! Validation Loss : 0.3161018527234378
+Iteration 72/363 of epoch 4 complete. Loss : 0.08620668346217523 
+Iteration 144/363 of epoch 4 complete. Loss : 0.07309140380109763 
+Iteration 216/363 of epoch 4 complete. Loss : 0.06506100221950975 
+Iteration 288/363 of epoch 4 complete. Loss : 0.06575147440243098 
+Iteration 360/363 of epoch 4 complete. Loss : 0.06626343953474942 
+Epoch 4 complete! Validation Loss : 0.31168355092244304
+{'accuracy': 0.8717241379310345, 'f1': 0.8748317631224763, 'precision': 0.8977900552486188, 'recall': 0.8530183727034121}

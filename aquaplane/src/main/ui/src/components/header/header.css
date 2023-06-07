@@ -1,0 +1,29 @@
+header {
+    padding-top: 1.5rem;
+}
+
+.header__container {
+    text-align: center;
+}
+
+#description {
+    margin: 2rem auto;
+    text-align: center;
+    width: 500px;
+}
+
+/* MEDIA QUERY (Medium) */
+@media screen and (max-width: 1024px) {
+    #description {
+        margin: 2rem auto;
+        text-align: block;
+    }
+}
+
+/* MEDIA QUERY (Small) */
+@media screen and (max-width: 600px) {
+    #description {
+        width: 100%;
+        text-align: justify;
+    }
+}

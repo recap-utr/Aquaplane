@@ -1,0 +1,53 @@
+# ad hominem classifier
+/ad_hominem_classifier_albert/data/exported-3621-sampled-positive-negative-ah-no-context.json
+/ad_hominem_classifier_albert/data_splitted/test.json
+/ad_hominem_classifier_albert/data_splitted/train.json
+/ad_hominem_classifier_albert/data_splitted/val.json
+/ad_hominem_classifier_albert/models/albert-base-v2_lr_1e-05_val_loss_0.30741_ep_2.pt
+/aquaplane/src/main/python/models/albert-base-v2_ad_hominem.pt
+
+# IDE
+/aquaplane/.mvn/
+/aquaplane/.idea/
+/aquaplane/src/main/ui/node_modules/
+/aquaplane/target/
+/aquaplane/src/main/python/.idea/
+.idea/
+aquaplane/src/main/python/python_fastapi/__pycache__/
+aquaplane/src/main/python/python_fastapi/ad_hominem/__pycache__/
+aquaplane/src/main/python/python_fastapi/fact_checking/__pycache__/
+aquaplane/src/main/python/python_fastapi/fact_checking/sbert/__pycache__/
+
+# styleexplorer
+/aquaplane/src/main/java/de/seanbri/aquaplane/assessment_approaches/styleexplorer/
+/aquaplane/src/main/resources/lib/LawrenceAppv1_5.jar
+/aquaplane/src/main/resources/styleexplorer/dale-chall.txt
+/aquaplane/src/main/resources/styleexplorer/functionwords.txt
+
+# stopwords
+/aquaplane/src/main/resources/debateIndexing/stopwords
+
+# profanity
+/aquaplane/src/main/resources/dictionaries/profanity/list_of_bad_words_2022_05_05.txt
+
+# effectiveness
+/aquaplane/src/main/resources/dictionaries/wiktionarylists/act_adverbs.txt
+/aquaplane/src/main/resources/dictionaries/wiktionarylists/comparative_forms.txt
+/aquaplane/src/main/resources/dictionaries/wiktionarylists/manner_adverbs.txt
+/aquaplane/src/main/resources/dictionaries/wiktionarylists/modal_adverbs.txt
+/aquaplane/src/main/resources/dictionaries/wiktionarylists/superlative_forms.txt
+/aquaplane/src/main/resources/dictionaries/wiktionarylists/about.txt
+
+# indexes
+/aquaplane/src/main/resources/indexes/index_debateOrg/
+/aquaplane/src/main/resources/indexes/index_simpleWiki/
+
+# evaluation
+/evaluation/data/evaluation/ukp-convarg-dagstuhl-argquality-combined.csv
+/evaluation/data/aquaplane/json-results/
+/evaluation/data/aquaplane/aquaplane-results.csv
+/evaluation/data/preprocessed/ukp-convarg-preprocessed.csv
+/evaluation/data/preprocessed/dagstuhl-argquality-preprocessed.csv
+/evaluation/data/raw/Dagstuhl-15512-ArgQuality/
+/evaluation/data/raw/UKPConvArg1Strict-CSV/
+

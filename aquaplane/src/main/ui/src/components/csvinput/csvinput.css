@@ -1,0 +1,12 @@
+.claim__container {
+    margin: 2rem auto;
+    text-align: center;
+    width: 500px;
+}
+
+/* MEDIA QUERY (Small) */
+@media screen and (max-width: 600px) {
+    .thesis__container {
+        width: 100%;
+    }
+}

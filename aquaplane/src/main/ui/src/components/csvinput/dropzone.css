@@ -1,0 +1,39 @@
+.dropzone__container {
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    border: 2px var(--color-very-light) dashed;
+    width: 500px;
+    margin: 2rem auto;
+}
+
+.dropzone-icon {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    color: var(--color-very-light);
+}
+
+.dropzone-content {
+    margin-bottom: 1rem;
+}
+
+.dropzone-content p {
+    color: var(--color-black);
+    font-weight: 500;
+}
+
+.uploadedFile {
+    font-size: 14px;
+    color: aqua;
+}
+
+.fileList {
+    margin-top: 1rem;
+}
+  
+/* MEDIA QUERY (Small) */
+@media screen and (max-width: 600px) {
+    .dropzone__container {
+        width: 100%;
+    }
+}

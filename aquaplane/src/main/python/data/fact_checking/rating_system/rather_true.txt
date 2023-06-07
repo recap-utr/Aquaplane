@@ -1,0 +1,34 @@
+true
+half true
+mostly true
+yes
+one pinocchio
+two pinocchios
+correct
+mostly correct
+correct attribution
+labeled satire
+correct.
+accurate
+fair call
+somewhat true
+partly true
+close to the mark
+true.
+The Geppetto checkmark
+truth
+checked
+partially true
+likely true
+mostly legit
+legit
+half-right
+accurate with considerations
+partially_correct
+partially correct
+mostly accurate
+mostly_accurate
+broadly correct
+verified
+a
+b

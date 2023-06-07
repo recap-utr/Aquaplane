@@ -1,0 +1,70 @@
+.claim__container {
+    margin: 2rem auto;
+    text-align: center;
+    max-width: 500px;
+}
+
+textarea::placeholder {
+    color: rgba(174,174,178,1);  
+}
+
+.arguments__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.arguments__container h3 {
+    margin: 0.2rem;
+}
+
+.arguments__container textarea {
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    resize: none;
+    font-size: 15px;
+    padding: 1.25rem;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    border-radius: 0.2rem;
+}
+
+.loading__container {
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.alert__container {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.buttons__container {
+    margin-top: 3.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    height: 50px;
+    margin-bottom: 3rem;
+}
+
+/* MEDIA QUERY (Medium) */
+@media screen and (max-width: 1024px) {
+    .arguments__container {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* MEDIA QUERY (Small) */
+@media screen and (max-width: 600px) {
+    .claim__container {
+        margin: 2rem auto;
+        text-align: center;
+        max-width: 100%;
+    }
+}
