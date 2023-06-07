@@ -1,7 +1,7 @@
 # Aquaplane
 
 ## Important notes
-This repository contains the code for the paper **AQUAPLANE: Argument Quality Explainer** which is currently under submission.
+This repository contains the code for the paper **AQUAPLANE: The Argument Quality Explainer App** which is currently under submission.
 The system requires datasets of which we do not have the publication rights, but which are linked in the paper.
 Nevertheless, the entire project including the said data is available on request from the authors.
 
