@@ -18,6 +18,7 @@ Aquaplane requires MySQL, Java, Python, and JavaScript.
 - Write your Google Fact-Check API key in "src/main/python/python_fastapi/fact_checking/gfc_api.py" (line 16).
 
 ### JAVA/MySQL
+- Run MySQL Server on port 3306.
 - Only the first time, i.e. if it does not exist yet: create the database "aquaplane" with MySQL using "create database aquaplane".
 - Start "src/main/java/de/seanbri/aquaplane/AquaplaneApplication.java".
 
