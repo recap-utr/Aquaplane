@@ -13,7 +13,7 @@ https://basilika.uni-trier.de/nextcloud/s/mipFoNSfqTx7Jia
 Aquaplane requires MySQL, Java, Python, and JavaScript.
 
 ### Keys
-- Write your MySQL root password in "src/main/java/de/seanbri/aquaplane/application.properties" (line 5).
+- Write your MySQL root password in "src/main/resources/application.properties" (line 5).
 - Write your ClaimBuster API key in "src/main/python/python_fastapi/fact_checking/claimbuster.py" (line 4).
 - Write your Google Fact-Check API key in "src/main/python/python_fastapi/fact_checking/gfc_api.py" (line 16).
 
